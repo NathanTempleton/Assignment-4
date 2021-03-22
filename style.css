@@ -1,0 +1,122 @@
+body {
+  background-color: beige;
+}
+
+.header {
+  text-align: center;
+}
+
+.link-title {
+  color: lightcoral
+}
+
+.engine {
+  width: 30%;
+  height: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.comment-1 {
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  border: 10px soild black;
+  background-color: wheat;
+}
+
+.ada-father {
+  height: 300px;
+}
+
+.image-2 {
+  height: 20%;
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-1 {
+  height: 25%;
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-comment {
+  text-align: center;
+}
+
+.box {
+  border: 5px;
+  width: 900px;
+  background-color: antiquewhite;
+  margin: auto;
+}
+
+.button-div {
+  display: block;
+  margin: auto;
+  width: 370px;
+}
+
+#early-1 {
+  display: none;
+}
+
+#early-2 {
+  display: none;
+}
+
+#early-img {
+  display: none;
+}
+
+#adult-1 {
+  display: none;
+}
+
+#adult-2 {
+  display: none;
+}
+
+#adult-img {
+  display: none;
+}
+
+#adult-comment {
+  display: none;
+}
+
+#later-1 {
+  display: none;
+}
+
+#later-2 {
+  display: none;
+}
+
+#later-img {
+  display: none;
+}
+
+#impact {
+  display: none;
+}
+
+#impact-1 {
+  display: none;
+}
+
+#links {
+  display: none;
+}
+
+#text-1 {
+  text-align: center;
+}
