@@ -10,6 +10,18 @@ body {
   color: lightcoral;
 }
 
+.homepage-div {
+  position: relative;
+  top: 450px;
+  text-align: center;
+}
+
+.home-div {
+  position: relative;
+  top: 260px;
+  text-align: center;
+}
+
 .time-img {
   float: right;
   width: 300px;
@@ -172,4 +184,6 @@ body {
 #text-1 {
   text-align: center;
   border: groove black;
+  width: 300px;
+  margin: auto;
 }
